@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @bieldfdf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá meu nome è @bieldfdf
+
++1Meu e-mail de contato è gabriel.fernandoda.silva29@escola.pr.gov.br
+
+
+eyes Eu estou interessado em aprender a programar novas linguagens.
+
+seedling Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
 <!---
 bieldfdf/bieldfdf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
